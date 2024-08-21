@@ -1,6 +1,6 @@
 # aa2cg
 
-**A**ll **A**tomic system to **C**oarse-**G**raining system.
+**A**ll **A**tomic to **C**oarse-**G**rained
 
 This program maps a classical all-atomistic (AA) molecular system to it corresponding coarse-grained (CG) system using the following two methods:
 
